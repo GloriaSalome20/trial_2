@@ -19,54 +19,43 @@ Before you leave the room on the last day of the course, please take a few minut
 
 ### Schedule (Subject to change)
 
-+-----------------------+----------------------+
-| Day                   | Subjects             |
-|                       |                      |
-+=======================+======================+
-| Monday November       | [Welcome](good-teacher.md)|
-| 24                    | and Introduction     | 
-|                       |                      |
-|                       |                      |
-|                       |                      | 
-|                       | What Makes a Good    |                   
-|                       | Teacher?             |                    
-|                       |                      |                     
-|                       | Intro to Growth      |                     
-|                       | Mindsets             |
-|                       |                      |
-|                       |Finding your Target   | 
-|                       | Audience             |
-+-----------------------+----------------------+
-| Tuesday November      | Skill Levels, Mental | 
-| 25                    | Models, and          |                     
-|                       | Misconceptions       |                    
-|                       |                      |                   
-|                       | Lesson Design        |
-|                       |                      |
-|                       |Creating Objectives   |
-|                       |                      |
-|                       |Lesson Plans &        |                     
-|                       | Crafting Content     |
-+-----------------------+----------------------+
-| Wednesday November    |  Designing           |                     
-| 26                    | Assessments          |                     
-|                       |                      |                     
-|                       | Equity, Inclusion, & |                     
-|                       | Accessibility        |
-|                       |                      |
-|                       |The Physical Act of   |
-|                       | Teaching             |
-+-----------------------+----------------------+
-| Thursday November     | How to Code Live     | 
-| 27                    |                      |
-|                       | Refining our         |                     
-|                       | Curricula            | 
-|                       |                      |                    
-+-----------------------+----------------------+
-| Friday November       | Group presentations  | 
-| 28                    |                      |
-|                       | Conclusion           |
-+-----------------------+----------------------+
++-----------------------+----------------------------------------------------------------------------------+
+| Day                   | Subjects                                                                         |
+|                       |                                                                                  |
++=======================+==================================================================================+
+| Monday November       | Welcome and Introduction                                                         |
+| 24                    |                                                                                  | 
+|                       | [What Makes a Good Teacher?](good-teacher.md)                                    |   
+|                       |                                                                                  |                     
+|                       | [Intro to Growth Mindsets](growth-mindset.md)                                    |                     
+|                       |                                                                                  |
+|                       |[Finding your Target Audience](target-audience.md)                                | 
++-----------------------+----------------------------------------------------------------------------------+
+| Tuesday November      | [Skill Levels, Mental Models, and Misconceptions](skill-models-misconceptions.md)| 
+| 25                    |                                                                                  |                     
+|                       | [Lesson Design](lesson-design.md)                                                |
+|                       |                                                                                  |
+|                       |[Creating Objectives](creating-objectives.md)                                     |
+|                       |                                                                                  |
+|                       |[Lesson Plans & Crafting Content](crafting-content.md)                            |                     
+|                       |                                                                                  |
++-----------------------+----------------------------------------------------------------------------------+
+| Wednesday November    |  [Designing Assessments](designing-assessments.md)                               |                     
+| 26                    |                                                                                  |                     
+|                       | [Equity, Inclusion, & Accessibility](equity-inclusion-accessibility.md)          |                     
+|                       |                                                                                  |
+|                       |[The Physical Act of Teaching](physically-teaching.md)                            |
+|                       |                                                                                  |
++-----------------------+----------------------------------------------------------------------------------+
+| Thursday November     | [How to Code Live](live-coding.md)                                               | 
+| 27                    |                                                                                  |
+|                       | [Refining our Curricula](evaluating-curricula.md)                                |                     
+|                       |                                                                                  | 
++-----------------------+----------------------------------------------------------------------------------+
+| Friday November       | Group presentations                                                              | 
+| 28                    |                                                                                  |
+|                       | [Conclusion](conclusion.md)                                                      |
++-----------------------+----------------------------------------------------------------------------------+
 
 ### Group Work for Live Coding
 
