@@ -8,39 +8,32 @@
 # lc: Library Carpentry
 # cp: Carpentries (to use for instructor training for instance)
 # incubator: The Carpentries Incubator
-# 
-# This option supports custom types so lessons can be branded
-# and themed with your own logo and alt-text (see `carpentry_description`)
-# See https://carpentries.github.io/sandpaper-docs/editing.html#adding-a-custom-logo
 carpentry: 'incubator'
 
-# Alt-text description of the lesson.
-carpentry_description: 'Lesson Description'
-
 # Overall title for pages.
-title: 'Lesson Title' # FIXME
+title: 'Best Practices in Training and Curriculum Development'
 
 # Date the lesson was created (YYYY-MM-DD, this is empty by default)
-created: ~ # FIXME: ( ~ means empty, replace with date formatted as above)
+created: '2025-11-11'
 
 # Comma-separated list of keywords for the lesson
-keywords: 'software, data, lesson, The Carpentries' # FIXME
+keywords: 'training, data, lesson, The Carpentries'
 
 # Life cycle stage of the lesson
 # possible values: pre-alpha, alpha, beta, stable
-life_cycle: 'pre-alpha' # FIXME
+life_cycle: 'pre-alpha'
 
-# License of the lesson
+# License of the lesson materials (recommended CC-BY 4.0)
 license: 'CC-BY 4.0'
 
 # Link to the source repository for this lesson
-source: 'https://github.com/carpentries/workbench-template-rmd' # FIXME
+source: 'https://github.com/bertozzivill/train-the-trainers'
 
 # Default branch of your lesson
 branch: 'main'
 
 # Who to contact if there are any issues
-contact: 'team@carpentries.org' # FIXME
+contact: 'amelia.bertozzi-villa@gatesfoundation.org'
 
 # Navigation ------------------------------------------------
 #
@@ -65,17 +58,35 @@ contact: 'team@carpentries.org' # FIXME
 # - another-learner.md
 
 # Order of episodes in your lesson
-episodes: 
-- introduction.Rmd
+episodes:
+- good-teacher.md  # ABV
+- growth-mindset.md # ABV
+- target-audience.md # lesson-dev
+- skill-models-misconceptions.md # instructor
+- lesson-design.md # lesson-dev
+- creating-objectives.md # lesson-dev
+- crafting-content.md # lesson-dev
+- designing-assessments.md # lesson-dev
+- equity-inclusion-accessibility.md # instructor
+- physically-teaching.md # ABV
+- live-coding.md # instructor
+- evaluating-curricula.md # ABV
+- conclusion.md
+
+# todo: conclusion/things we didn't have time for
+# - skill-with-feedback.md # instructor-- maybe not time
+# - expertise-instruction.md # instructor-- might not need
+# - motivation.md # instructor-- might not need
+
 
 # Information for Learners
-learners: 
+learners:
 
 # Information for Instructors
-instructors: 
+instructors:
 
 # Learner Profiles
-profiles: 
+profiles:
 
 # Customisation ---------------------------------------------
 #
