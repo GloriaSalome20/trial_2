@@ -23,9 +23,10 @@ Before you leave the room on the last day of the course, please take a few minut
 | Day                   | Subjects             |
 |                       |                      |
 +=======================+======================+
-| Monday November       | [Welcome and         | 
-|  24                   | Introduction]        |
-|                       | (good-teacher.md)    |
+| Monday November       | [Welcome](good-teacher.md)|
+| 24                    | and Introduction     | 
+|                       |                      |
+|                       |                      |
 |                       |                      | 
 |                       | What Makes a Good    |                   
 |                       | Teacher?             |                    
