@@ -75,8 +75,7 @@ teach, and create an assessment-based curriculum for that content.
 Because much of our work involves programming, you will also learn how
 to effectively teach using the live coding method. Over the last two
 days of the session, groups will lead the class through their short
-lesson and receive feedback. This session will have a mix of R and
-Python coders, so you will actually be teaching people something new!
+lesson and receive feedback. 
 
 Take some time today or tomorrow to create a group of two people. Make
 sure all of your are familiar with the same programming language (R).
@@ -139,7 +138,7 @@ Before joining this training, participants should:
 -   have the latest versions of [R and
     RStudio](https://bertozzivill.github.io/r-install-instructions)
     installed (see below).
--   have some familiarity with programming in Python or R, especially
+-   have some familiarity with programming in R, especially
     making plots in either language.
 
 ## Software Setup
@@ -153,13 +152,6 @@ If you have not already done so, please follow the [R setup
 instructions](https://bertozzivill.github.io/r-install-instructions) to
 download or update your R and RStudio.
 
-This is a mixed course, with participants who are most comfortable in
-either Python or R. In order to run R scripts, everyone should have
-downloaded and installed R and RStudio yesterday. And luckily, RStudio
-can also function as a development environment for Python, so we
-shouldn't need to download Python separately. What we will need to do is
-install the R package that will help us run Python, as well as a few
-Python packages.
 
 ### R Packages Needed
 
