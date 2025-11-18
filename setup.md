@@ -15,7 +15,7 @@ survey](https://forms.gle/fpSqUFvT3GuouAmi6){target="_blank"}.
 
 ### Post-Course Survey
 
-Before you leave the room on the last day of the course, please take a few minutes to fill out the [post-course survey](https://forms.gle/2JTkFPfNYNYyRaA59).{target="_blank"}.
+Before you leave the room on the last day of the course, please take a few minutes to fill out the [post-course survey](https://forms.gle/2JTkFPfNYNYyRaA59){target="_blank"}.
 
 ### Schedule (Subject to change)
 
