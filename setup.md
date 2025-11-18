@@ -11,11 +11,11 @@ with lunch break around 1pm. We will meet at the MAP office - Conference room.
 ### Pre-Course Survey
 
 Before we begin, please take a moment to fill out the [pre-course
-survey](https://forms.gle/1eyZ96SjfWD9SLvc9){target="_blank"}.
+survey](https://forms.gle/fpSqUFvT3GuouAmi6){target="_blank"}.
 
 ### Post-Course Survey
 
-Before you leave the room on the last day of the course, please take a few minutes to fill out the [post-course survey](https://forms.gle/he7CDQ2KXSjdMpkm9){target="_blank"}.
+Before you leave the room on the last day of the course, please take a few minutes to fill out the [post-course survey](https://forms.gle/2JTkFPfNYNYyRaA59).{target="_blank"}.
 
 ### Schedule (Subject to change)
 
@@ -37,12 +37,12 @@ Before you leave the room on the last day of the course, please take a few minut
 |                       |                                                                                  |
 |                       |[Creating Objectives](creating-objectives.md)                                     |
 |                       |                                                                                  |
-|                       |[Lesson Plans & Crafting Content](crafting-content.md)                            |                     
+|                       | [Designing Assessments](designing-assessments.md)                                |              
 |                       |                                                                                  |
 +-----------------------+----------------------------------------------------------------------------------+
-| Wednesday November    |  [Designing Assessments](designing-assessments.md)                               |                     
-| 26                    |                                                                                  |                     
-|                       | [Equity, Inclusion, & Accessibility](equity-inclusion-accessibility.md)          |                     
+| Wednesday November    |  [Lesson Plans & Crafting Content](crafting-content.md)                          |               
+| 26                    |                                                                                  |               
+|                       | [Equity, Inclusion, & Accessibility](equity-inclusion-accessibility.md)          |               
 |                       |                                                                                  |
 |                       |[The Physical Act of Teaching](physically-teaching.md)                            |
 |                       |                                                                                  |
